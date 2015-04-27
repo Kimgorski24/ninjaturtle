@@ -1,0 +1,6 @@
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\bin\NEWNINJJAAPP2.0.dll.config
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\bin\NEWNINJJAAPP2.0.dll
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\bin\NEWNINJJAAPP2.0.pdb
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\obj\Debug\NEWNINJJAAPP2.0.csprojResolveAssemblyReference.cache
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\obj\Debug\NEWNINJJAAPP2.0.dll
+c:\users\kimberly\documents\visual studio 2013\Projects\NEWNINJJAAPP2.0\NEWNINJJAAPP2.0\obj\Debug\NEWNINJJAAPP2.0.pdb
